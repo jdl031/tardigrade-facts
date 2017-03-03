@@ -1,0 +1,25 @@
+{
+  "name": "tardigrade-facts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdl031/tardigrade-facts.git"
+  },
+  "author": "James Lloyd (jdl031)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajkitson/tardigrade-facts/issues"
+  },
+  "homepage": "https://github.com/ajkitson/tardigrade-facts#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "request": "^2.64.0"
+  }
+}

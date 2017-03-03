@@ -1,0 +1,12 @@
+{
+  "name": "Tardigrade Facts",
+  "description": "Post a random Tardigrade fact to your slack channel",
+  "repository": "https://github.com/jdl031/tardigrade-facts",
+  "logo": "https://www.pagerduty.com/images/brand-guidelines/logo-color.png",
+  "keywords": ["slack", "tardigrade", "facts"],
+  "env": {
+    "SLACK_TOKEN": {
+      "description": "Your slack token."
+    }
+  }
+}

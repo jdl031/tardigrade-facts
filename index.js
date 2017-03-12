@@ -27,6 +27,6 @@ function handleCall(req,res){
 
     var factData = facts[Math.floor(Math.random()*facts.length)];
 
-    res.status(200).send('Tardigrade Fact' + factData);
+    res.status(200).send(factData);
 
 }
